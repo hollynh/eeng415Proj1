@@ -1,5 +1,5 @@
 % Project 1: Equity in Healthcare
-% Gerard Abiassaf, Brian Bahr, Jasey Diaz, Holly Hammons
+% Holly Hammons
 % EENG 415
 % Dr. Salman Mohagheghi
 % Spring 2022
